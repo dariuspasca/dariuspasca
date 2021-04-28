@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Darius, iOS developer.
+I'm Darius, software developer.
 
 ## 📫 Find me
 
